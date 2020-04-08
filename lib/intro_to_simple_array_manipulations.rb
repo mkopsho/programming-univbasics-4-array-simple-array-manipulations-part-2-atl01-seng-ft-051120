@@ -7,5 +7,5 @@ def using_insert(list_of_programming_languages, another_language)
 end
 
 def using uniq(array)
-  array.uniq
+  new_array = array.uniq
 end
